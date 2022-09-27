@@ -1,5 +1,8 @@
 # Hangman
 
+## Summary
+A frontend-only word guessing game. Players can play by clicking on the letters on the page or pressing the keyboard keys.
+
 ## Link
 https://wendyyng.github.io/Hangman/
 
