@@ -9,10 +9,18 @@ https://wendyyng.github.io/Hangman/
 ## Technologies Used:
 
 - Javascript
+- DOM Manipulation
 - jQuery
 - Bootstrap
 - HTML
 - CSS
+
+## Features:
+
+- Users can input their guesses by clicking the keys on the screens or pressing letters on their keyboard
+- Randomly chosen mystery word for each round
+- Sounds for clicking the correct/incorrect letters and victory/failure sounds when a game ends
+- When a round of game is completed, user can click the 'Play again' button to play a new round
 
 ## Screenshot:
 
