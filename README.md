@@ -1,4 +1,5 @@
 # Hangman
+![image](https://user-images.githubusercontent.com/71687298/189029661-a7ea0e84-8092-4c86-9431-a702a0f0e3a9.png)
 
 ## Summary
 A frontend-only word guessing game. Players can play by clicking on the letters on the page or pressing the keyboard keys.
@@ -21,7 +22,3 @@ https://wendyyng.github.io/Hangman/
 - Randomly chosen mystery word for each round
 - Sounds for clicking the correct/incorrect letters and victory/failure sounds when a game ends
 - User can click the 'Play again' button to play a new round
-
-## Screenshot:
-
-![image](https://user-images.githubusercontent.com/71687298/189029661-a7ea0e84-8092-4c86-9431-a702a0f0e3a9.png)
